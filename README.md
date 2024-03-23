@@ -53,7 +53,7 @@ This project is implemented using `C` and Parsing of HTTP referred from <a href 
 ## How to Run
 
 ```bash
-$ git clone 
+$ git clone https://github.com/mohammednudman/ConcurProxy.git
 $ cd MultiThreadedProxyServerClient
 $ make all
 $ ./proxy <port no.>
